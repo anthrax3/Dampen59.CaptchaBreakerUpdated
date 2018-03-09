@@ -1,0 +1,7 @@
+C:\Users\brade\Desktop\Dampen59.CaptchaBreakerUpdated\bin\Debug\Dampen59CaptchaBreaker.dll
+C:\Users\brade\Desktop\Dampen59.CaptchaBreakerUpdated\bin\Debug\Dampen59CaptchaBreaker.pdb
+C:\Users\brade\Desktop\Dampen59.CaptchaBreakerUpdated\bin\Debug\OQ.MineBot.PluginBase.dll
+C:\Users\brade\Desktop\Dampen59.CaptchaBreakerUpdated\obj\Debug\Dampen59.CaptchaBreakerUpdated.csprojResolveAssemblyReference.cache
+C:\Users\brade\Desktop\Dampen59.CaptchaBreakerUpdated\obj\Debug\Dampen59.CaptchaBreakerUpdated.csproj.CoreCompileInputs.cache
+C:\Users\brade\Desktop\Dampen59.CaptchaBreakerUpdated\obj\Debug\Dampen59CaptchaBreaker.dll
+C:\Users\brade\Desktop\Dampen59.CaptchaBreakerUpdated\obj\Debug\Dampen59CaptchaBreaker.pdb
